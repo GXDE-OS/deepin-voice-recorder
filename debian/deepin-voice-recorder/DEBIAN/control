@@ -1,0 +1,11 @@
+Package: deepin-voice-recorder
+Version: 15.11~1.4.2-1+comsta
+Architecture: amd64
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 775
+Depends: libavformat58 (>= 7:4.1), libc6 (>= 2.29), libdtkcore2 (>= 2.0.11), libdtkwidget2 (>= 15.11~2.0.16.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libqt5multimedia5-plugins
+Section: utils
+Priority: optional
+Homepage: https://github.com/linuxdeepin/deepin-voice-recorder
+Description: Voice recorder application for deepin
+ deepin voice recorder tool.

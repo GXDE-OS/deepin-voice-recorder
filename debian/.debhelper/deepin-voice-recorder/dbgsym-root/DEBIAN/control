@@ -1,0 +1,12 @@
+Package: deepin-voice-recorder-dbgsym
+Source: deepin-voice-recorder
+Version: 15.11~1.4.2-1+comsta
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3787
+Depends: deepin-voice-recorder (= 15.11~1.4.2-1+comsta)
+Section: debug
+Priority: optional
+Description: debug symbols for deepin-voice-recorder
+Build-Ids: 7c9cffa974258a89daabfad76af5b1507c40f43f
